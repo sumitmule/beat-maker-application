@@ -4,7 +4,7 @@ It is a basic *'Beat Maker'* application built using the **` Pygame `** library 
 
 Application programming is a great way to learn coding as one gets visual feedback whenever they implement something in the source code. In addition to this, one gets to make something that’s useful to the user.
 
-Beat Maker is a classic drum machine and can be used for basic music composition. It is simple to implement and fun to play.  
+Beat Maker is a classic drum machine and can be used for basic music composition. It is simple to implement and fun to play :pager:.  
 <br>
 
 ### Features of the application : 
@@ -13,7 +13,7 @@ The app allows user to highlight cells (:green_square:) corresponding to differe
 
 > This program is inspired by the Bosca Ceoil program which is used in making music for many different applications and games.
 
-It also has the functionality to change the speed of the beats played and the number of beats in a loop.
+It also has the functionality to change the speed of the beats played :fast_forward: and the number of beats in a loop.
 
 ### Tech/Framework used :
 
@@ -32,7 +32,7 @@ It also has the functionality to change the speed of the beats played and the nu
 In order to make changes to the code or to run the application you will need to install `Pygame` library on your machine.  
 >pip install pygame  
 
-In order to run the .exe application file you will need the to download the following things and make sure they are in the same directory.
+In order to run the .exe application file you will need the to download the following things and make sure they are in the same directory :file_folder:.
 1. final.exe file
 2. Sounds folder
 3. logo.png file
@@ -46,4 +46,4 @@ In order to run the .exe application file you will need the to download the foll
 - Handling user input to play desired sound beats and controlling other functionality like play/pause, adding beats etc.<br>
 <br>
 
-> The user experience can be improved by adding other instruments, adding a save/load system and sharing features
+> The user experience can be improved by adding other instruments, adding a save/load system and sharing features.
